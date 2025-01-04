@@ -70,5 +70,6 @@ number is indicated by the plugin when the server starts, with the default being
 
 ## License
 ## 协议
-####This project is licensed under the MIT License.
-####本项目使用MIT协议
+#### This project is licensed under the MIT License.
+
+#### 本项目使用MIT协议
