@@ -65,3 +65,10 @@ number is indicated by the plugin when the server starts, with the default being
 
 4. The tracks will be saved to `player_footprints.txt`. Run `plot_footprint.py` to generate the chart, which will automatically open in your browser for preview.
 4. 足迹将被保存到 `player_footprints.txt`。运行 `plot_footprint.py` 来生成图表，它将自动在浏览器中打开以供预览。
+
+
+
+## License
+## 协议
+####This project is licensed under the MIT License.
+####本项目使用MIT协议
