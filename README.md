@@ -6,13 +6,13 @@
 Record coordinates in the game, and then display them in the form of a chart:
 在游戏中记录坐标，然后以图表形式展示：
 
-![Example](/assets/img/2025/01-04/a.png)
+![Example](/README/a.png)
 
 
 Hover over a record point to see detailed information.
 将鼠标悬停在记录点上查看详细信息。
 
-![Example 2](/assets/img/2025/01-04/b.png)
+![Example 2](/README/b.png)
 
 
 #### Dependencies
