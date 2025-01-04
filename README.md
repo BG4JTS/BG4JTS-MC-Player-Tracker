@@ -18,29 +18,38 @@ Hover over a record point to see detailed information.
 #### Dependencies
 #### 依赖
 There are two files: `plot_footprint.py` and `record.py`.
+
 包含两个文件：`plot_footprint.py` 和 `record.py`。
 
 Ensure you are using Python version 3.x.x.
+
 确保你使用的是 Python 3.x.x 版本。
 
 Make sure the `mcpi` and `plotly` libraries are installed.
+
 确保已经安装了 `mcpi` 和 `plotly` 库。
 
 Both files should be in the same directory.
+
 两个文件应该位于同一目录下。
 
 Ensure you have entered the correct server IP address and port number in `record.py`.
+
 确保在 `record.py` 中正确输入了服务器的 IP 地址和端口号。
 
 #### Deployment
 #### 部署
 1. Download the files from [MC-Player-Tracker](https://github.com/BG4JTS/BG4JTS-MC-Player-Tracker).
+
 1. 从 [MC-Player-Tracker](https://github.com/BG4JTS/BG4JTS-MC-Player-Tracker) 下载文件。
 
-2. Open `record.py` to modify the IP and port number. If the server is local, use `localhost` or `127.0.0.1`. The port number is indicated by the plugin when the server starts, with the default being `4711`.
+2. Open `record.py` to modify the IP and port number. If the server is local, use `localhost` or `127.0.0.1`. The port 
+number is indicated by the plugin when the server starts, with the default being `4711`.
+
 2. 打开 `record.py` 以修改 IP 地址和端口号。如果服务器在本地，使用 `localhost` 或 `127.0.0.1`。端口号由插件在服务器启动时提示，默认为 `4711`。
 
 3. To change the recording interval, find `def main` and adjust the value of `time.sleep()`, e.g., `time.sleep(5)` for a 5-second interval.
+
 3. 要改变记录间隔，找到 `def main` 并调整 `time.sleep()` 的值，例如 `time.sleep(5)` 表示 5 秒的间隔。
 
 #### Usage Guide
