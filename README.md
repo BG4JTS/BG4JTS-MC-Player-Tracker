@@ -63,11 +63,11 @@ number is indicated by the plugin when the server starts, with the default being
 1. Connect to the server in the game and run `record.py`.
 1. 在游戏中连接到服务器并运行 `record.py`。
 
-2. In the game, type `/record start` in the chat to begin recording.
-2. 在游戏中，在聊天栏输入 `/record start` 开始记录。
+2. In the game, type `record start` in the chat to begin recording.
+2. 在游戏中，在聊天栏输入 `record start` 开始记录。
 
-3. To stop recording, type `/record stop`.
-3. 要停止记录，输入 `/record stop`。
+3. To stop recording, type `record stop`.
+3. 要停止记录，输入 `record stop`。
 
 4. The tracks will be saved to `player_footprints.txt`. Run `plot_footprint.py` to generate the chart, which will automatically open in your browser for preview.
 4. 足迹将被保存到 `player_footprints.txt`。运行 `plot_footprint.py` 来生成图表，它将自动在浏览器中打开以供预览。
