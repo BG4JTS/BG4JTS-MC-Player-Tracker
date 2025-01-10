@@ -1,5 +1,9 @@
 # MC-Player-Tracker
 # MC玩家追踪器
+** This project uses AIGC **
+**本项目使用AIGC**
+
+
 
 #### Example
 #### 示例
